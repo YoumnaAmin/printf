@@ -84,6 +84,7 @@ int _printf(const char *format, ...)
 					print_char(*format);
 					chars_written += 2;
 					break;
+
 			}
 
 		}
