@@ -16,5 +16,4 @@ void print_string(const char *str);
 int print_int(int num);
 int str_len(const char *str);
 int binary_conv(unsigned int num);
-void print_rev(const char *str);
 #endif
