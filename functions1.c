@@ -31,7 +31,7 @@ int binary_conv(unsigned int num)
 	return (count);
 }
 
-/*
+/**
  * print_rev - print string in reverse
  * @str: string
  * Return: nothing
